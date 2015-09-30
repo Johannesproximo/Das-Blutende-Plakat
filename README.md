@@ -13,9 +13,8 @@ Das Blutende Plakat ist ein Plakat welches sich verändert, wenn in der Nähe SM
 
 - Anfangs hatte ich versucht mit kurzen Dipol Antennen die Handysignal(Elektromagnetische Wellen) aufzufangen und eine Kleine Spannung zu Induzieren. [Hier im Video ist das gut erklärt](http://www.ebay.de/itm/Flashlight-Handyanhanger-Spanien-Espana-Spain-Handyschmuck-Mobile-Phone-Charm-/261917061109?pt=LH_DefaultDomain_77&hash=item3cfb792ff5)  
 (Imprinzip genau das was früher durch kleine Anhänger an Handys schon passiert ist. [Beispiel](http://www.ebay.de/itm/Flashlight-Handyanhanger-Spanien-Espana-Spain-Handyschmuck-Mobile-Phone-Charm-/261917061109?pt=LH_DefaultDomain_77&hash=item3cfb792ff5))  
-- Durch intensiver suche bin ich dann auf ein Schaltung gestoßen welche genau dies mit Hilfe einer kleinen Verstärkerschaltung schaft.
+- Durch intensiver suche bin ich dann auf ein Schaltung gestoßen welche genau dies mit Hilfe einer kleinen Verstärkerschaltung schaft. [Cell Phone Signal Detector](https://www.seattleu.edu/scieng/ece/laboratory/cellphone/)
 
-!(Bilder der Verstärkerschaltung---Fehlt---)[]
 
 **2. Induzierte Spannung soll Raspberry PI Pin HIGH schalten:**
 
