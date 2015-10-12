@@ -1,13 +1,12 @@
 README: German/[English](README-English.md)
 #Das Blutende Plakat
 
+![Pictogramme](Pictures/Pictogram.jpg) 
+
 ##Allgemein:
 Das Blutende Plakat ist ein Plakat welches sich verändert, wenn in der Nähe SMS oder Telefonanrufe getätigt werden. Diese erhöten Strahlenwerte lösen aus, dass das Plakat zu bluten anfängt und dadurch ein Pictogramm Ablauf sichtbar wird.
 
 
-++++ VIDEO ++++ Fehlt noch
-
-++++ eventuell noch Video Funktionsablauf ++++
 
 **1. Versuche Handystrahlung als Auslöser zu verwenden:**
 
@@ -25,7 +24,7 @@ Das Blutende Plakat ist ein Plakat welches sich verändert, wenn in der Nähe SM
 
 - Der Pictogramablauf soll durch das Blut sichtbar werden. Durch viele gespräeche mit Komilitonen kamm dann die Idee: eine Durchsichtige Folie mit weißem Aufdruck auf einer Weisen Platte anzubringen. Bei Auslösen des Plakatese sollte dann eine rote flüssigkeite die Weiße Platte kurzzeitig rot ferben und somit den Pictogramm ablauf sichtbar werden lassen. Mit Klebefolie für Fensterscheiben wurde die durchsichtigen Folie becklebt und dann mit Schrauben und Muttern (als abstandshalter) zusammen gefüght. 
 
-!(Bild beklepte Folie und Platte---Fehlt---)[]
+![Bild beklepte Folie und Platte](Pictures/plate.jpg)
 
 - nun hatte ich einen Zwischenraum in dem ich mit einer Pumpe, einem Schlauch und Auffangbehälter, das Rote Kunstblutbehälter immer wieder aufs neue fließen lassen konnte.
 
@@ -35,7 +34,7 @@ Das Blutende Plakat ist ein Plakat welches sich verändert, wenn in der Nähe SM
 - Die Flüssigkeit wurde dabei mit hilfe eines durchlöcherten Schlauches an die Oberekannte des Plakattes gepumpt.
 - Der Raspberry pi und der Empfänger wurden ganz oben im Ramen verbaut, sodass diese Bauteile nicht nass werden können.
 
-!(Bild Plakat Fertig von Hinten und Vorne ---Fehlt---)[]
+![Bild Plakat Fertig von Hinten und Vorne](Pictures/top.jpg)
 
 ###Benötigt:
 
@@ -74,7 +73,7 @@ Plakat Rahmen und Auffangbehälter
 
 1. Am Besten Baut man den Cellephone detector als erstes und verbiendet diesen dann einen Pin des Pi(Bei mir ist das Projekt mehr oder weniger daran gescheitert).
 3. Bekommt ihr das Signal des Cellephone detectors als HIGH auf euren PI, dann könnt ihr damit die Pumpe Schalten.  
-(++++ Code fehlt noch +++++) 
+(++++ Code fehlt noch +++++)
 4.	Nun müsst ihr das Piktogramm  
 [Piktogramm - Schwarz](Pictures/Pictogram-black.ai)  
 [Pictogramm - Weiß](Pictures/Pictogram-white.ai)  
@@ -83,7 +82,8 @@ Plakat Rahmen und Auffangbehälter
 (siehe Bild Allgemein 3. Ideenfindung des Plakates und Umsetzung)
 5. Jetzt fehlt noch der Schlauch welchen ich mit einer Bohrmaschiene(Holzbohrer) an der entsprechenden Stelle durchbort hatte. Das ende wurde einfach umgeknickt.
 ![Bild durchborter und angebrachter Schlau](Pictures/Tube.jpg)
-6. Den Auffangbehälter wurde aus einem Stück eckigem Dunstabzugs-Rohr gebaut(gedacht für einen Hert), welches ihr in einem Baumakrt findet. An dem Rohr wurde eine Seite abgesägt und damit die enden verklebt.
+6. Den Auffangbehälter wurde aus einem Stück eckigem Dunstabzugs-Rohr gebaut(gedacht für einen Hert), welches ihr in einem Baumakrt findet. An dem Rohr wurde
+7. eine Seite abgesägt und damit die enden verklebt.
 ![Bild Auffangbehälter](Pictures/Rohr.jpg)
 6. Nun alles zusammensetzten...
 

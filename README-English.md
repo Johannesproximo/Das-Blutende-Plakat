@@ -1,13 +1,12 @@
 README: Englisch
 #The bleeding Poster
 
+![Pictogramme](Pictures/Pictogram.jpg) 
+
 ### Abstract:
 The bleeding Poster change is view if someone receive an short message or a call next to the poster. The increasing of electromagnetic waves trigger the poster and it is going to start bleeding and reveals a pictogram.
 
 
-++++ clip ++++ is missing
-
-++++ maybe clip of the function of the poster ++++
 
 **1. try to trigger mobile phone radiation:**
 
@@ -23,7 +22,8 @@ The bleeding Poster change is view if someone receive an short message or a call
 
 - The poster reveal a pictogram by bleeding. To make the idea real I get some good thinking from fellow students. They mean I should stick the pictogram on a transparent plate and put another plate behind the transparent one (in the same color as the pictogram). When some colored weather flow between both plates the pictogram becomes visible. 
 
-!(Picturs for example will follow ---Fehlt---)[]
+![Picturs for example will follow](Pictures/plate.jpg)
+
 
 - In the space between transparent and colored plate I installed a tube with a pump which will be activate by radiation of a mobile phone. If someone is taking a call next to the poster, the bump will start and change the color of the background, this let the pictogram occur.
 
@@ -32,7 +32,7 @@ The bleeding Poster change is view if someone receive an short message or a call
 - the frame was built simply by screw some wood lath.
 - on the top and the bottom of the frame is more space to store catch tank, Receiver and booster and also the raspberry pi.
 
-!(Pictures front and back of the poster will follow soon  ---Fehlt---)[]
+![Pictures front and back of the poster](Pictures/top.jpg)
 
 ### Prerequisite:
 
